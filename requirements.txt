@@ -5,3 +5,7 @@ langchain-openai
 langchain-groq
 langchain-core
 langchain-community
+defusedxml  # for xml file will be loaded as a list of documents
+pypdf  # pdf file will be loaded as a list of documents
+bs4  # beautiful soup means that the data is in html format
+
